@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sashaqwert
+- 👋 Hi, I’m Aleksandr Chivarzin.
+- I am a graduate of IU5 of Bauman Moscow State Technical University.
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
